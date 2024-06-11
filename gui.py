@@ -15,12 +15,12 @@ def plot_route(G, path):
 
 def show_gui():
     root = Tk()
-    root.title("Route Visualizer")
+    root.title("Route Network")
 
     def open_map():
         webbrowser.open("map.html")
 
-    open_button = Button(root, text="Open Map", command=open_map)
+    open_button = Button(root, text="Show Map", command=open_map)
     open_button.pack()
 
     close_button = Button(root, text="Close", command=root.quit)
