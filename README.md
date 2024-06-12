@@ -35,6 +35,6 @@ The program created is a solution for the Traveling Salesman Problem (TSP) using
 ## How to Run The Program
 1. Clone this repository by typing `git clone https://github.com/wigaandini/Large-scale-Network.git` in terminal.
 2. Open the repository folder.
-3. Run the program using `pyhton main.py`.
+3. Run the program using `python main.py`.
 4. Input the city, start address, and end address.
 5. Click "Find Route" button and wait until the map of the route appear.
